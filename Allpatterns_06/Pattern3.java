@@ -1,4 +1,4 @@
-package lecture_06;
+package Allpatterns_06;
 
 public class Pattern3 {
     public static void inverted_rotated_half_pyramid(int n){

@@ -1,4 +1,4 @@
-package lecture_06;
+package Allpatterns_06;
 
 public class pattern4 {
     public static void  floyds_triangle(int n){

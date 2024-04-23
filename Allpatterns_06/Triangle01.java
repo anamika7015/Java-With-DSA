@@ -1,4 +1,4 @@
-package lecture_06;
+package Allpatterns_06;
 
 public class Triangle01 {
     public static void zero_one_triangle(int n){
