@@ -1,4 +1,4 @@
-package lecturre_06;
+package lecture_06;
 
 public class Pattern {
     public static void hollow_rectangle(int totRows, int totCols){
