@@ -17,7 +17,7 @@ public class Hollorhombus {
    }
     }
     public static void main(String[] args) {
-        hollo_rhombus(7);
+        hollo_rhombus(5);
         
     }
 }
