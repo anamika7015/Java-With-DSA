@@ -1,4 +1,4 @@
-package lecture_09;
+package 09_lecture;
 
 import java.util.Scanner;
 
